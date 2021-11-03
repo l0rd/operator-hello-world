@@ -1,12 +1,6 @@
-# Operator Sample for Che
+# Operator Sample for CRW [![](https://img.shields.io/badge/Eclipse_Che-Hosted%20by%20Red%20Hat-525C86?logo=eclipse-che&labelColor=FDB940)](https://workspaces.openshift.com/f?url=https://github.com/l0rd/operator-hello-world&policies.create=peruser)
 
 ## Developer Workspace
-
-[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/f?url=https://raw.githubusercontent.com/l0rd/operator-hello-world/master/devfile.yaml)
-
-This Che Factory can also be invoked with any host:
-{hostURL}/f?url=https://github.com/l0rd/operator-hello-world/
-It will read the `devfile.yaml` from the repository to instanciate the developer workspace.
 
 ## Instructions to run the demo
 
